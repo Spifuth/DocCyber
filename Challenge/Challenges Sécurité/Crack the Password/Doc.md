@@ -1,22 +1,23 @@
 # Mise en Place du Challenge : Crack the Password
 
-## Étape 1 : Préparation de l'Environnement
+## Étape 1 : Installation de Python
 
-- Assurez-vous d'avoir Python installé sur votre machine.
-- Clonez ce dépôt pour obtenir le fichier `password_cracker.py`.
+- Assurez-vous que Python est installé sur votre machine. Si ce n'est pas le cas, téléchargez-le depuis [python.org](https://www.python.org/downloads/) et suivez les instructions d'installation.
 
-## Étape 2 : Analyse du Script
+## Étape 2 : Téléchargement du Script
 
-- Le script contient un mot de passe codé en dur que vous devez découvrir.
-- Familiarisez-vous avec le code pour comprendre son fonctionnement.
+- Téléchargez le fichier `password_cracker.py` à partir du dépôt.
 
-## Étape 3 : Cracking du Mot de Passe
+## Étape 3 : Découverte du Mot de Passe
 
-- Utilisez une approche de force brute pour tenter de craquer le mot de passe.
-- Pensez à des optimisations possibles pour accélérer le processus.
+- Exécutez le script dans un terminal ou un IDE Python pour comprendre son fonctionnement.
+- Utilisez différentes techniques pour essayer de découvrir le mot de passe.
+
+## Étape 4 : Documentation de la Méthode
+
+- Une fois le mot de passe découvert, notez comment vous y êtes parvenu.
+- Expliquez toute méthode de force brute ou analyse que vous avez utilisée.
 
 ## Support
 
-- En cas de questions, contactez [Votre Email ou Contact].
-
-Nous vous encourageons à aborder ce défi avec créativité !
+- Si vous avez besoin d'aide ou de conseils, n'hésitez pas à demander.

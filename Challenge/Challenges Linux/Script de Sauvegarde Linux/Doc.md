@@ -2,21 +2,18 @@
 
 ## Étape 1 : Préparation de l'Environnement Linux
 
-- Ouvrez un terminal Linux.
-- Préparez un répertoire de travail pour votre script.
+- Assurez-vous d'accéder à un système Linux. Ce script n'a pas de dépendances supplémentaires autres que les commandes Bash standards.
 
-## Étape 2 : Création du Script
+## Étape 2 : Téléchargement et Personnalisation du Script
 
-- Utilisez votre éditeur de texte favori pour créer `backup_script.sh`.
-- Pensez aux fonctionnalités que vous souhaitez inclure (par exemple, compression, logs).
+- Téléchargez le fichier `backup_script.sh`.
+- Ouvrez le script dans un éditeur de texte et modifiez les chemins `SOURCE_DIR` et `BACKUP_DIR` selon vos besoins.
 
-## Étape 3 : Test du Script
+## Étape 3 : Exécution et Test du Script
 
-- Testez le script dans différents scénarios pour assurer sa fiabilité.
-- Vérifiez que le script sauvegarde correctement les fichiers/répertoires.
+- Rendez le script exécutable avec `chmod +x backup_script.sh`.
+- Exécutez le script et vérifiez que la sauvegarde se réalise correctement.
 
 ## Support
 
-- En cas de difficulté, contactez [Votre Email ou Contact].
-
-Nous espérons que ce challenge vous donnera une expérience pratique avec les scripts Bash !
+- En cas de difficultés ou de questions, n'hésitez pas à demander de l'aide.
