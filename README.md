@@ -15,7 +15,7 @@ Ce dépôt contient un fichier principal `DocCyber.md` qui est structuré comme 
 - **Cybersécurité pour Enfants** : Ressources adaptées pour initier les enfants à la cybersécurité.
 - **Autres Ressources** : Liens supplémentaires et variés en informatique et cybersécurité.
 
-### Nouveau ! Challenges Pratiques
+### Challenges Pratiques
 
 Nous avons également ajouté un nouveau dossier `Challenges`, contenant des défis pratiques dans trois domaines clés :
 
@@ -24,6 +24,24 @@ Nous avons également ajouté un nouveau dossier `Challenges`, contenant des dé
 - **Challenges/Sécurité** : Scénarios axés sur la cybersécurité, pour aiguiser vos compétences en protection et analyse.
 
 Chaque sous-dossier contient des challenges individuels, chacun avec son propre README et documentation pour guider les participants.
+
+## Plateformes d'Apprentissage Interactives
+
+### Codingame
+- **Description** : Codingame offre une approche ludique de la programmation avec des défis de code dans un environnement de jeu.
+- **Lien** : [Accéder à Codingame](https://www.codingame.com/start/fr/)
+
+### Swift Playgrounds par Apple
+- **Description** : Une application d'Apple pour apprendre Swift de manière interactive et amusante, adaptée aussi bien aux débutants qu'aux programmeurs expérimentés.
+- **Lien** : [Découvrir Swift Playgrounds](https://www.apple.com/fr/swift/playgrounds/)
+
+### CodeCombat
+- **Description** : CodeCombat est une plateforme d'apprentissage de la programmation pour les étudiants, enseignée à travers un jeu de rôle.
+- **Lien** : [Explorer CodeCombat](https://codecombat.com/)
+
+### CodeCombat Worlds sur Roblox
+- **Description** : Une extension du jeu CodeCombat sur Roblox, offrant une expérience immersive dans l'apprentissage de la programmation.
+- **Lien** : [Jouer à CodeCombat Worlds sur Roblox](https://www.roblox.com/games/11704713454/Pets-CodeCombat-Worlds)
 
 ## Comment Utiliser ce Dépôt
 
