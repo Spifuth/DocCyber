@@ -57,7 +57,7 @@ Ce projet est sous licence [GNU GENERAL PUBLIC LICENSE V3](LICENSE). Veuillez co
 
 ## Contact
 
-Pour toute question, suggestion ou demande, n'hésitez pas à contacter [Votre Nom] à [Votre Email].
+Pour toute question, suggestion ou demande, n'hésitez pas à contacter Nathan.Luye.Pro@gmail.com.
 
 ---
 
