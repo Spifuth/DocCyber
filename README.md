@@ -6,17 +6,16 @@ Bienvenue sur le dépôt GitHub dédié aux ressources en informatique et cybers
 
 Ce dépôt est organisé en plusieurs sections, chacune correspondant à un domaine spécifique. Explorez ces sections pour trouver des ressources qui vous intéressent.
 
-- [Programmation et Développement](#programmation-et-développement) : Cette section propose des cours et des tutoriels sur les langages de programmation populaires et le développement web.
-- [Cybersécurité](#cybersécurité) : Découvrez des ressources pour comprendre et renforcer la sécurité informatique.
-- [Intelligence Artificielle et Data Science](#intelligence-artificielle-et-data-science) : Plongez dans l'intelligence artificielle, le machine learning et l'analyse de données grâce à une sélection de matériaux.
-- [Linux](#linux) : Explorez des cours spécifiques à l'utilisation et à l'administration de systèmes Linux.
-- [Jeux en Cybersécurité](#jeux-en-cybersécurité) : Apprenez les concepts de la cybersécurité de manière ludique grâce à des jeux interactifs.
-- [Autres Compétences Informatiques](#autres-compétences-informatiques) : Cette section couvre divers aspects essentiels de l'informatique en dehors du développement et de la cybersécurité.
-- [Cybersécurité pour Enfants](#cybersécurité-pour-enfants) : Initiez les enfants à la cybersécurité avec des ressources adaptées à leur niveau.
-- [Autres Ressources](#autres-ressources) : Trouvez ici des liens supplémentaires et variés en informatique et cybersécurité.
+- [Programmation et Développement](#doc/programmation-et-développement.md) : Cette section propose des cours et des tutoriels sur les langages de programmation populaires et le développement web.
+- [Cybersécurité](#doc/cybersécurité.md) : Découvrez des ressources pour comprendre et renforcer la sécurité informatique.
+- [Intelligence Artificielle et Data Science](#doc/intelligence-artificielle-et-data-science.md) : Plongez dans l'intelligence artificielle, le machine learning et l'analyse de données grâce à une sélection de matériaux.
+- [Linux](#doc/linux.md) : Explorez des cours spécifiques à l'utilisation et à l'administration de systèmes Linux.
+- [Jeux Cybersécurité](#doc/jeux-cybersécurité.md) : Apprenez les concepts de la cybersécurité de manière ludique grâce à des jeux interactifs.
+- [Autres Compétences Informatiques](#doc/autres-compétences-informatiques.md) : Cette section couvre divers aspects essentiels de l'informatique en dehors du développement et de la cybersécurité.
+- [Cybersécurité pour Enfants](#doc/cybersécurité-enfants.md) : Initiez les enfants à la cybersécurité avec des ressources adaptées à leur niveau.
+- [Autres Ressources](#doc/autres-ressources.md) : Trouvez ici des liens supplémentaires et variés en informatique et cybersécurité.
 
 Pour accéder à un sommaire détaillé de chaque section, veuillez consulter le fichier [`SommaireCyber.md`](./Doc/SommaireCyber.md).
-
 ---
 
 ## Contribution
@@ -29,7 +28,7 @@ Ce projet est sous licence [GNU GENERAL PUBLIC LICENSE V3](LICENSE). Veuillez co
 
 ## Contact
 
-Pour toute question, suggestion ou demande, n'hésitez pas à contacter Nathan.Luye.Pro@gmail.com.
+Pour toute question, suggestion ou demande, n'hésitez pas à contacter GitHub.Spifuth@gmail.com.
 
 ---
 
