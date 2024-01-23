@@ -16,6 +16,7 @@ Ce dépôt est organisé en plusieurs sections, chacune correspondant à un doma
 - [Autres Ressources](./Doc/autres-ressources/autres-ressources.md) : Trouvez ici des liens supplémentaires et variés en informatique et cybersécurité.
 
 Pour accéder à un sommaire détaillé de chaque section, veuillez consulter le fichier [`SommaireCyber.md`](./Doc/SommaireCyber.md).
+
 ---
 
 ## Contribution
